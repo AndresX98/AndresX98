@@ -10,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/andres-santiago-lopez-acevedo-213081264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andres-santiago-lopez-acevedo-213081264/" height="30" width="40" /></a>
-<a href="https://fb.com/andres santiago lopez acevedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andres santiago lopez acevedo" height="30" width="40" /></a>
 <a href="https://instagram.com/andressantiagolopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andressantiagolopez" height="30" width="40" /></a>
 </p>
 
